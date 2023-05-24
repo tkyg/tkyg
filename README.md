@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Tenzin Tenkyong</h1>
+<h3 align="center">A passionate Full Stack Web Developer from New York.</h3>
 
-<!--
-**tkyg/tkyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [GrubGo](https://github.com/tkyg/GrubGo.git)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **WebSockets**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://github.com/tkyg](https://github.com/tkyg)
+
+- 📝 I regularly write articles on [https://medium.com/@ttenkyong](https://medium.com/@ttenkyong)
+
+- 💬 Ask me about **JavaScript, React, Ruby, Ruby on Rails**
+
+- 📫 How to reach me **ttenkyong@gmail.com**
+
+- 📄 Know about my experiences [https://tenzin-tenkyong.herokuapp.com/static/media/TenzinResume.f5b23be5adc6775b8452.pdf](https://tenzin-tenkyong.herokuapp.com/static/media/TenzinResume.f5b23be5adc6775b8452.pdf)
+
+- ⚡ Fun fact **I know Hindi, Nepali, and Tibetan**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tenzintenkyong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tenzintenkyong" height="30" width="40" /></a>
+<a href="https://medium.com/@ttenkyong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ttenkyong" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkyg&show_icons=true&locale=en&layout=compact" alt="tkyg" /></p>
