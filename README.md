@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm [Tenzin Tenkyong]()</h1>
+<h1 align="center">Hi 👋, I'm Tenzin Tenkyong</h1>
 <h3 align="center">A passionate Full Stack Web Developer from New York.</h3>
 
-- 💻 Here is my [portfolio website] (https://tenzin-tenkyong.herokuapp.com/)
+- 💻 Here is my [portfolio website](https://tenzin-tenkyong.herokuapp.com/)
+
 - 🔭 I’m currently working on [GrubGo](https://github.com/tkyg/GrubGo.git)
 
 - 🌱 I’m currently learning **WebSockets**
