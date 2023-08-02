@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [GrubGo](https://github.com/tkyg/GrubGo.git)
 
-- 🌱 I’m currently learning **WebSockets**
+- 🌱 I’m currently learning **JavaScript Algorithms and Data Structures - freeCodeCamp**
 
 - 📖 I'm currently reading **Grokking Algorithms - By Aditya Y. Bhargava**
 
