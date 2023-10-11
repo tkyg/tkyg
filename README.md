@@ -3,7 +3,7 @@
 
 - 💻 Here is my [portfolio website](https://tenzin-tenkyong.herokuapp.com/)
 
-- 🔭 I’m currently working on [GrubGo](https://github.com/tkyg/GrubGo.git)
+- 🔭 I’m currently working on [CarbyneCyber](https://github.com/tkyg/carbyne-cyber-solutions.git)
 
 - 🌱 I’m currently learning **JavaScript Algorithms and Data Structures - freeCodeCamp**
 
