@@ -3,7 +3,7 @@
 
 - 💻 Here is my [portfolio website](https://tenzin-tenkyong.herokuapp.com/)
 
-- 🔭 I’m currently working on [A Free Bird](https://github.com/tkyg/carbyne-cyber-solutions.git](https://www.afreebird.org/)
+- 🔭 I’m currently working on [A Free Bird](https://www.afreebird.org/)
 
 - 🌱 I’m currently learning **JavaScript Algorithms and Data Structures - freeCodeCamp**
 
